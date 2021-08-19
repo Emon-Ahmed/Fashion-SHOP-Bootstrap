@@ -36,7 +36,6 @@ body{
 }
 .product{
     border-radius: 20px;
-    margin: 20px;
 }
 .product-img{
     background-color: #F1F1F1;
@@ -48,10 +47,6 @@ body{
 .footer-box{
     border-radius: 20px;
     box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
-}
-.footer-box img{
-    width: 78;
-    height: 82;
 }
 .box-text h4{
     font-size: 24px;
