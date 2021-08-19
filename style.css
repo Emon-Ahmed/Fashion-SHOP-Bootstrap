@@ -52,3 +52,7 @@ body{
     font-size: 24px;
     font-weight: 600;
 }
+.navbar .navbar-toggler {
+    color: transparent;
+    border: none !important;
+}
